@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pega-tracer-event-perf-visualizer/static/css/main.fb37193e.chunk.css",
+    "main.js": "/pega-tracer-event-perf-visualizer/static/js/main.5ada4df7.chunk.js",
+    "main.js.map": "/pega-tracer-event-perf-visualizer/static/js/main.5ada4df7.chunk.js.map",
+    "runtime~main.js": "/pega-tracer-event-perf-visualizer/static/js/runtime~main.3ca02db0.js",
+    "runtime~main.js.map": "/pega-tracer-event-perf-visualizer/static/js/runtime~main.3ca02db0.js.map",
+    "static/js/2.ca150098.chunk.js": "/pega-tracer-event-perf-visualizer/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/pega-tracer-event-perf-visualizer/static/js/2.ca150098.chunk.js.map",
+    "index.html": "/pega-tracer-event-perf-visualizer/index.html",
+    "precache-manifest.b10b8e5ea9b50ee69134ce7ffacc7d7e.js": "/pega-tracer-event-perf-visualizer/precache-manifest.b10b8e5ea9b50ee69134ce7ffacc7d7e.js",
+    "service-worker.js": "/pega-tracer-event-perf-visualizer/service-worker.js",
+    "static/css/main.fb37193e.chunk.css.map": "/pega-tracer-event-perf-visualizer/static/css/main.fb37193e.chunk.css.map"
+  }
+}
