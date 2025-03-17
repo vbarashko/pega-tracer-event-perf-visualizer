@@ -1,0 +1,41 @@
+@media (max-width: 1024px) {
+  .app-with-sidebar {
+    margin-left: 324px;
+    max-width: calc(100% - 324px);
+    padding: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 240px;
+  }
+  
+  .app-with-sidebar {
+    margin-left: 264px;
+    max-width: calc(100% - 264px);
+    padding: 16px;
+  }
+}
+
+@media (max-width: 640px) {
+  .sidebar {
+    display: none;
+  }
+  
+  .app {
+    padding: 12px;
+  }
+  
+  .app-with-sidebar {
+    margin-left: 0;
+    max-width: 100%;
+    padding: 12px;
+  }
+  
+  .controls-section {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    top: 12px;
+  }
+} 
